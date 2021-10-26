@@ -26,10 +26,3 @@ public:
         return output;
     }
 };
-
-int main() {
-    std::vector<int> A = {2, 5, 8, 10};
-    Solution x;
-    for (int i = 0; i < 2; ++i)
-        std::cout << x.twoSum(A, 18)[i] << ' ';
-};
