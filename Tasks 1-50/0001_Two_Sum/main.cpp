@@ -2,8 +2,8 @@
 
 class Solution {
 public:
-    std::vector<int> twoSum(std::vector<int> &nums, int target) {
-        std::vector<int> temp = nums;
+    std::vector<int> twoSum(std::vector<int> &tab, int target) {
+        std::vector<int> temp = tab;
 
         std::sort(temp.begin(), temp.end());
 
@@ -19,8 +19,8 @@ public:
 
         std::vector<int> output;
 
-        for (int x = 0; x < nums.size(); ++x)
-            if (nums[x] == temp[i] || nums[x] == temp[j])
+        for (int x = 0; x < tab.size(); ++x)
+            if (tab[x] == temp[i] || tab[x] == temp[j])
                 output.push_back(x);
 
         return output;
