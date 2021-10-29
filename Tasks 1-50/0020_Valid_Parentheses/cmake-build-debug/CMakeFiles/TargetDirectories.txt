@@ -1,0 +1,3 @@
+D:/LeetCode/Tasks 1-50/0020_Valid_Parentheses/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/LeetCode/Tasks 1-50/0020_Valid_Parentheses/cmake-build-debug/CMakeFiles/0020_Valid_Parentheses.dir
+D:/LeetCode/Tasks 1-50/0020_Valid_Parentheses/cmake-build-debug/CMakeFiles/edit_cache.dir
