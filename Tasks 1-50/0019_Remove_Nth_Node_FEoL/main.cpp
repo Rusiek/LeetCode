@@ -32,14 +32,3 @@ public:
         return output.next;
     }
 };
-
-int main() {
-    Solution X;
-
-    ListNode e(5);
-    ListNode d(4, &e);
-    ListNode c(3, &d);
-    ListNode b(2, &c);
-    ListNode a(1, &b);
-    X.removeNthFromEnd(&a, 2);
-}
