@@ -4,7 +4,7 @@ Welcome to my repository, where you will find all of my LeetCode assignment solu
 
 # Tasks 1-50
 
-20  /   50  -   Accepted solutions  
-08  /   10  -   Easy problems  
+22  /   50  -   Accepted solutions  
+10  /   10  -   Easy problems  
 12  /   30  -   Medium problems  
 00  /   10  -   Hard problems  
