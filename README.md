@@ -8,3 +8,10 @@ Welcome to my repository, where you will find all of my LeetCode assignment solu
 10  /   10  -   Easy problems  
 15  /   30  -   Medium problems  
 01  /   10  -   Hard problems  
+
+# Tasks 51-100
+
+02  /   50  -   Accepted solutions  
+02  /   10  -   Easy problems  
+00  /   30  -   Medium problems  
+00  /   10  -   Hard problems  
