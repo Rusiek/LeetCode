@@ -11,7 +11,7 @@ Welcome to my repository, where you will find all of my LeetCode assignment solu
 
 # Tasks 51-100
 
-02  /   50  -   Accepted solutions  
+03  /   50  -   Accepted solutions  
 02  /   10  -   Easy problems  
-00  /   30  -   Medium problems  
+01  /   30  -   Medium problems  
 00  /   10  -   Hard problems  
